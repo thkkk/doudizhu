@@ -1,5 +1,6 @@
 # doudizhu
 A doudizhu(斗地主, landlord) game built with QT
+
 My homework when I was freshman. 
 
 There's no release version. If you **really** want to play it, use Qt to open the project and build it please. （This is because I wrote the IP address in the code)
